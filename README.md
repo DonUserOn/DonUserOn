@@ -1,35 +1,56 @@
 # Hi 👋, I'm Ossama
 
-🎓 AI Student passionate about Data Science and Machine Learning
-💻 Currently learning: Python, NumPy, Pandas, Matplotlib
-🚀 Future goal: Become an AI Engineer
+🎓 Artificial Intelligence Student at Harbin Institute of Technology (HIT)  
+🤖 Interested in AI, Machine Learning, and Data Analysis  
+💻 Strong foundation in C/C++ and currently expanding into Python for AI  
 
+---
 
-## 🧠 Skills
+## 🛠️ Skills
+- C
+- C++
+- Python (Basics)
+- NumPy
+- Pandas
+- Matplotlib
+- Object-Oriented Programming (OOP)
+- Problem Solving
 
-* Python 🐍
-* Object-Oriented Programming (OOP)
-* Data Analysis (NumPy, Pandas, Matplotlib)
-* Git & GitHub
+---
 
-## 📚 Currently Learning
+## 📂 Projects
 
-* Machine Learning
-* Data Structures & Algorithms
-* Neural Networks (TensorFlow)
+### 🏦 Banking System (C++)
+A simple command-line banking application that simulates basic banking operations.
 
-## 🛠️ Projects
+🔹 Features:
+- Show balance  
+- Deposit & withdraw money  
+- Input validation  
 
-Here are some of my projects:
+👉 Project Link: (add your GitHub repo link here)
 
-🔹 Python Calculator
-🔹 Data Analysis Projects (Pandas)
-🔹 (More coming soon...)
+---
 
-## 🌍 Connect with me
+## 🎯 Current Focus
+- Learning Data Analysis (NumPy, Pandas, Matplotlib)  
+- Building AI & Machine Learning projects  
+- Strengthening problem-solving skills  
 
-* GitHub: https://github.com/DonUserOn
+---
 
-⭐ *Always learning, always building.*
+## 🚀 Goals
+- Become an AI Engineer  
+- Build real-world AI projects  
+- Get internships in AI / Data Science  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/DonUserOn  
+
+---
+
+⭐ Always learning and improving in AI!
 
 
