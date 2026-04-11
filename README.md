@@ -2,7 +2,7 @@
 <h3 align="center">AI Student | C++ Developer | Future AI Engineer</h3>
 
 <p align="center">
-  🚀 Building real-world systems | 💳 FinTech | 🤖 Future AI Specialist
+  🚀 Building real-world systems | 🤖 AI & Prompt Engineering | 💳 FinTech
 </p>
 
 ---
@@ -11,7 +11,8 @@
 
 - 🎓 Artificial Intelligence student at Harbin Institute of Technology  
 - 💻 Strong foundation in C / C++ and system design  
-- 📊 Currently learning Data Analysis (NumPy, Pandas, Matplotlib)  
+- 🤖 Skilled in Prompt Engineering for AI-driven applications  
+- 📊 Learning Data Analysis (NumPy, Pandas, Matplotlib)  
 - 🎯 Goal: Become a professional AI Engineer  
 
 ---
@@ -37,6 +38,8 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -53,19 +56,19 @@
 
 ---
 
-### 📟 Scientific Calculator (C++)
-- Advanced mathematical operations  
-- Functions & structured logic  
-- History system  
+### 🤖 AI Study Assistant (Prompt Engineering)
+- AI-generated explanations and exercises  
+- Smart prompt design for learning support  
+- Focus on educational assistance  
 
 🔗 https://github.com/DonUserOn  
 
 ---
 
-### 🎮 Number Guessing Game (C++)
-- Difficulty levels  
-- Score system  
-- Input validation  
+### 📟 Scientific Calculator (C++)
+- Advanced math operations  
+- Structured logic and functions  
+- History tracking  
 
 🔗 https://github.com/DonUserOn  
 
@@ -98,16 +101,17 @@
 
 ## 🎯 Current Focus
 
-- 🔥 Advanced C++ (OOP, systems, problem solving)  
-- 📊 Python for Data Analysis  
-- 🤖 Transition to AI & Machine Learning  
+- 🔥 Advanced C++ (OOP, system design)  
+- 📊 Data Analysis with Python  
+- 🤖 Machine Learning & AI Projects  
+- ⚡ Building AI tools using Prompt Engineering  
 
 ---
 
 ## 🏆 Goals
 
 - 💼 Secure AI Internship  
-- 🤖 Build Machine Learning Projects  
+- 🤖 Build impactful AI systems  
 - 📈 Become top AI Engineer  
 
 ---
@@ -123,5 +127,5 @@
 ---
 
 <p align="center">
-  ⭐ "Discipline and consistency create success."
+  ⭐ "Consistency + Smart Work = Success"
 </p>
