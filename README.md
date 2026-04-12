@@ -61,7 +61,7 @@
 - Smart prompt design for learning support  
 - Focus on educational assistance  
 
-🔗 https://github.com/DonUserOn  
+🔗 [https://github.com/DonUserOn  ](https://github.com/DonUserOn/ai-study-assistant.git)
 
 ---
 
