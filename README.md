@@ -70,7 +70,7 @@
 - Structured logic and functions  
 - History tracking  
 
-🔗 https://github.com/DonUserOn  
+🔗 [https://github.com/DonUserOn](https://github.com/DonUserOn/easyx-gui-calculator.git)  
 
 ---
 
