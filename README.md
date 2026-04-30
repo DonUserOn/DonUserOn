@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ossama</h1>
-<h3 align="center">AI Student | C++ Developer | Future AI Engineer</h3>
+<h1 align="center">Hi 👋, I'm Hanan Ossama</h1>
+<h3 align="center">AI Student | Python & C++ Developer | Future AI Engineer</h3>
 
 <p align="center">
-  🚀 Building real-world systems | 🤖 AI & Prompt Engineering | 💳 FinTech
+  🚀 Building structured systems | 🤖 AI & Prompt Engineering | 💳 FinTech Logic
 </p>
 
 ---
@@ -10,10 +10,10 @@
 ## 🧠 About Me
 
 - 🎓 Artificial Intelligence student at Harbin Institute of Technology  
-- 💻 Strong foundation in C / C++ and system design  
-- 🤖 Skilled in Prompt Engineering for AI-driven applications  
-- 📊 Learning Data Analysis (NumPy, Pandas, Matplotlib)  
-- 🎯 Goal: Become a professional AI Engineer  
+- 💻 Strong foundation in Python, C, and C++  
+- 🤖 Focused on Prompt Engineering and AI-driven applications  
+- 📊 Currently learning data analysis using NumPy, Pandas, and Matplotlib  
+- 🎯 Goal: Build real-world AI systems and secure an AI internship  
 
 ---
 
@@ -46,39 +46,48 @@
 
 ## 🚀 Featured Projects
 
-### 💳 FinTech Banking System (C++)
-- 🔐 PIN Authentication  
-- 💳 Credit Card Validation (Luhn Algorithm)  
-- 💾 Persistent Storage  
-- 📜 Transaction History  
+### 🤖 AI Study Assistant
+- Structured prompt-based learning assistant  
+- Generates explanations, exercises, and solutions  
+- Designed as a foundation for future AI-powered applications  
 
-🔗 [https://github.com/DonUserOn](https://github.com/DonUserOn/-FinTech-Banking-System-C-.git)
-
----
-
-### 🤖 AI Study Assistant (Prompt Engineering)
-- AI-generated explanations and exercises  
-- Smart prompt design for learning support  
-- Focus on educational assistance  
-
-🔗 [https://github.com/DonUserOn  ](https://github.com/DonUserOn/ai-study-assistant.git)
+🔗 https://github.com/DonUserOn/ai-study-assistant  
 
 ---
 
-### 📟 Scientific Calculator (C++)
-- Advanced math operations  
-- Structured logic and functions  
-- History tracking  
+### 💳 Credit Card Validator (Python & C++)
+- Implementation of the Luhn Algorithm  
+- Input validation and clean modular structure  
+- Demonstrates algorithmic thinking and real-world logic  
 
-🔗 [https://github.com/DonUserOn](https://github.com/DonUserOn/easyx-gui-calculator.git)  
+🔗 https://github.com/DonUserOn/-Credit-Card-Validator-in-Python  
+
+---
+
+### 🏦 FinTech Banking System (C++)
+- PIN authentication system  
+- Transaction handling and balance management  
+- Credit card validation integration  
+- Structured system-level logic  
+
+🔗 https://github.com/DonUserOn/-FinTech-Banking-System-C-  
+
+---
+
+### 🔐 Encryption Program (Python)
+- Substitution cipher implementation  
+- Key generation, saving, and loading  
+- Menu-driven interface with encryption/decryption  
+
+🔗 https://github.com/DonUserOn/python-encryption-program  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonUserOn&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonUserOn&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DonUserOn&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonUserOn&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -86,7 +95,7 @@
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonUserOn&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonUserOn&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -101,24 +110,24 @@
 
 ## 🎯 Current Focus
 
-- 🔥 Advanced C++ (OOP, system design)  
-- 📊 Data Analysis with Python  
-- 🤖 Machine Learning & AI Projects  
-- ⚡ Building AI tools using Prompt Engineering  
+- 🐍 Advanced Python (project-based learning)  
+- 🧠 Problem solving and algorithmic thinking  
+- 📊 Data analysis with NumPy, Pandas, Matplotlib  
+- 🤖 Building AI-powered applications  
 
 ---
 
 ## 🏆 Goals
 
-- 💼 Secure AI Internship  
-- 🤖 Build impactful AI systems  
-- 📈 Become top AI Engineer  
+- 💼 Secure an AI or Software Engineering internship  
+- 🤖 Build real-world AI systems  
+- 📈 Continuously improve through projects and practice  
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: 2007ossamahanan@gmail.com
+- 📧 Email: 2007ossamahanan@gmail.com  
 
 <p align="center">
   <a href="https://github.com/DonUserOn">
